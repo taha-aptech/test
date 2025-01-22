@@ -1,2 +1,2 @@
 # test
-learning github
+learning github and git
